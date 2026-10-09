@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Samuel Bennington and here is some useful information about me. 
+My name is David Bolmadar and here is some useful information about me. 
 
 - I am currently a student at Leeds Beckett University studying Cyber Security 💻
 
